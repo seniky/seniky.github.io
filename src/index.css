@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+
+body {
+  background: linear-gradient(270deg, #0f172a, #0e7490, #1e293b);
+  background-size: 600% 600%;
+  animation: gradientBackground 20s ease infinite;
+}
