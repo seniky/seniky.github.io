@@ -5,7 +5,7 @@ export default function App() {
       {/* Navbar */}
       <nav className="fixed top-0 left-0 w-full bg-zinc-800/70 backdrop-blur-md shadow-md z-50">
         <div className="max-w-6xl mx-auto px-6 py-4 flex justify-between items-center">
-          <span className="text-lg font-bold text-teal-400">Snek</span>
+          <span className="text-lg font-bold text-teal-400">Jennifer Torres</span>
           <ul className="flex space-x-6 text-sm md:text-base">
             <li><a href="#about" className="hover:text-teal-400 transition">About</a></li>
             <li><a href="#projects" className="hover:text-teal-400 transition">Projects</a></li>
